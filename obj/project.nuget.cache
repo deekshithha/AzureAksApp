@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4GLl3eogGK+5lsaHzlVmwLmoBFYKoEWifvE659qS+80b3Xx9i6+FCUmSQoaYm0vztLTipFVBSDIshcGg5ZQxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deekshi\\source\\repos\\CustomerManagementProject\\CustomerManagementProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deekshi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
